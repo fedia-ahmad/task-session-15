@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    width: 250px;
+    height: 40px;
+}
+.error {
+    color: red;
+    font-size: 90%;
+}
